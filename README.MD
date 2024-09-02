@@ -19,13 +19,12 @@ El bot tiene la capacidad de:
    ```bash
    git clone https://github.com/tu_usuario/twitter-bot.git
    cd twitter-bot
-   ```
+   
 
-
-# Instala las Dependencias
+2. **Instala las Dependencias**
     ```bash
     npm install
-    ```
+    
 
 ## Configura el Archivo de Variables de Entorno
 
@@ -36,10 +35,10 @@ TWITTER_API_SECRET_KEY='tu_api_secret_key'
 TWITTER_ACCESS_TOKEN='tu_access_token'
 TWITTER_ACCESS_TOKEN_SECRET='tu_access_token_secret'
 
-## Ejecuta el bot
+**Ejecuta el bot**
     ```bash
     npx ts-node bot.ts
-    ```
+
 
 # 📝 Explicación del Código
 
