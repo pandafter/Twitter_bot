@@ -35,7 +35,9 @@ TWITTER_API_SECRET_KEY='tu_api_secret_key'
 TWITTER_ACCESS_TOKEN='tu_access_token'
 TWITTER_ACCESS_TOKEN_SECRET='tu_access_token_secret'
 
-**Ejecuta el bot**
+
+## Ejecución
+1. **Ejecuta el bot**
     ```bash
     npx ts-node bot.ts
 
