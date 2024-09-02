@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Environment variables file
+.env
+
+# Logs
+*.log
+
+# Build output
+dist/
+build/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Operating system and IDE specific files
+.DS_Store
+*.swp
+*.swo
+
+# IDE configuration files
+.vscode/
+.idea/
